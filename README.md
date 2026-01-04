@@ -10,3 +10,9 @@
 # Quy trình 
 #### Đánh giá sơ bộ, liệt kê các chức năng
 #### Đặt giả thiết - Quan sát dấu hiệu
+#### Tìm dấu hiệu ( 4 dấu hiệu cần lưu tâm)
+
+#### 1. Erron Message (những dòng lỗi) 
+#### 2. Unexpected Data (những dữ liệu không mong muốn sảy ra)
+#### 3. Time Response (thời gian trả về kết quả)
+#### 4. Unexpected Behavior (những dấu hiệu còn lại)
